@@ -1,2 +1,3 @@
-# sample-web-app
-Sample Web App for Practice Deployment 
+# maven-project
+
+Simple Maven Project
